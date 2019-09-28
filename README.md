@@ -27,7 +27,7 @@ Example: <b>\- Rohit Swami, Student - Haryana, India </b>
 You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-ft/) for the list of contributors with a minimum of one merged commit to this repository with their gravatar. If you want to know more about a contributor, click on their gravatar to go to their github profile.
 
 # Amazing Contributors :heart:
-
+- Jihad, Student - Lombok, Indonesia
 - Rohit Swami, Student - Haryana, India
 - Aditi Pandey, Student - UP, India :fire:
 - Max Grosshandler, Student - Chicago, Illinois, USA
